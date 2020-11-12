@@ -8,6 +8,7 @@
         }
     ],
     "minimum-stability": "beta",
+    "license": "MIT",
     "require": {
         "monolog/monolog": "^2.1"
     },
