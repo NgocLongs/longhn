@@ -1,0 +1,19 @@
+{
+    "name": "longhn/convert",
+    "description": "Convert Latin",
+    "authors": [
+        {
+            "name": "longhn",
+            "email": "longjinhofc@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "monolog/monolog": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "longhn\\": "src/"
+        }
+    }
+}
